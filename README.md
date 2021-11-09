@@ -1,7 +1,9 @@
 # Election_Analysis
 ## Project Overview
 In this project, We are helping Tom to go over the tasks that need to be completed for the election audit, and discuss the information needed by the Colorado Board of Elections. The Colorado Board of Elections has given the following tasks to complete and audit of their local congressional election.
-
+ 
+ These are the steps I have followed to get this analysis:
+ 
 1. Calculate the total number of votes.
 2. Get the list of counties where citzens voted.
 3. Compile the list of candidates who recieved votes.
@@ -17,8 +19,8 @@ In this project, We are helping Tom to go over the tasks that need to be complet
 
 
 ## Resources
-- Data: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code 1.61.1 
+- **Data**: election_results.csv
+- **Software**: Python 3.7.6, Visual Studio Code 1.61.1 
 
 ## Results
 As a results for Election Analysis, The winner is Diana DeGette and Winning county is Denver.
@@ -74,12 +76,13 @@ As a results for Election Analysis, The winner is Diana DeGette and Winning coun
     <img width="367" alt="Screen Shot 2021-11-08 at 10 35 40 AM" src="https://user-images.githubusercontent.com/92277581/140781556-60ec6aeb-e90e-48f2-aa0c-d83e138ef11e.png">
 
     
-    Here is the code, I have used to get this results:
+  
     
     
 
 ## Summary
-Here, I have given two examples of how this script can be modified to be used for any other types of elections.
+Here, I have given the examples of how this script can be modified to be used for any other types of elections.
 
-For example, if you wanted to do analysis a federal congressional election, all you need to do is change the counties to states. 
+If you wanted to do analysis a federal congressional election, all you need to do is change the counties to states. 
+
 Another example, if you had a local initiative election, all you need to do is change candidates to in favor or against.
